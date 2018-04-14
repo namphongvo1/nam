@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://atisongocduy.com/san-pham/cao-ngot-atiso-1kg' target='_blank'><img src='http://atisongocduy.com/wp-content/themes/html5blank-stable/images/san-pham-cao-atiso.jpg' width='500px'/><br/>CLICK KHUYẾN MÃI HẤP DẪN NHẤT TỪ TRƯỚC TỚI NAY</a>. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://atisongocduy.com/san-pham/cao-ngot-atiso-1kg' target='_blank'><img src='http://atisongocduy.com/wp-content/themes/html5blank-stable/images/san-pham-cao-atiso.jpg' width='500px'/><br/>Click Khuyến Mãi Hấp Dẫn Nhất Từ Trước Tới Nay</a>. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
