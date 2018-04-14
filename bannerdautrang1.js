@@ -1,5 +1,5 @@
 //please contact me giaiphapthuonghieu.org@gmail.com
-//website http://giaiphapthuonghieu.vn or http://faceseo.vn
+//website http://atisongocduy.com or http://caoatisodalatcaocap.blogspot.com
 
 (function($) {
     $.fn.linhnguyen = function(options) {        
@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://goo.gl/rKJWvA' target='_blank'><img src='http://atisongocduy.com/wp-content/themes/html5blank-stable/images/san-pham-cao-atiso.jpg' width='500px'/><br/>13 Kỹ thuật đẩy top vượt trội</a>. Học tại nhà CEO Faceseo. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://atisongocduy.com/san-pham/cao-ngot-atiso-1kg' target='_blank'><img src='http://atisongocduy.com/wp-content/themes/html5blank-stable/images/san-pham-cao-atiso.jpg' width='500px'/><br/>13 Chương Trình Siêu Khuyến Mãi Hấp Dẫn Nhất Từ Trước Tới Nay</a>. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
